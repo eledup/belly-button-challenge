@@ -1,3 +1,5 @@
 # belly-button-challenge
 
-Understanding and visualisation of bacteria cultures
+An interactive dashboard with visualisation exploring bacteria cultures.
+
+Github pages: https://eledup.github.io/index.html
